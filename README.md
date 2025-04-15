@@ -22,6 +22,7 @@
 | Component | Version |
 |-----------|--------|
 | Java | Oracle OpenJDK 21 |
+| Apache Tomcat | 10.1.39 |
 | Spring MVC | 6.2.3 |
 | MyBatis | 3.5.16 |
 | MyBatis-Spring | 3.0.4 |
